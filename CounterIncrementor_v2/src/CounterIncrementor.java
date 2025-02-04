@@ -11,7 +11,7 @@ public class CounterIncrementor implements Runnable
 
   public void run()
   {
-    for(int i = 0; i < updates; i++)
+    for (int i = 0; i < updates; i++)
     {
       counter.increment();
     }

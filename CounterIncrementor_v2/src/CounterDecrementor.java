@@ -1,9 +1,9 @@
-public class CounterIncrementor implements Runnable
+public class CounterDecrementor implements Runnable
 {
   private int updates;
   private Counter counter;
 
-  public CounterIncrementor(Counter counter, int updates)
+  public CounterDecrementor(Counter counter, int updates)
   {
     this.counter = counter;
     this.updates = updates;
@@ -13,7 +13,7 @@ public class CounterIncrementor implements Runnable
   {
     for(int i = 0; i < updates; i++)
     {
-      counter.increment();
+      counter.decrement();
     }
     System.out.println(counter.getValue());
   }
