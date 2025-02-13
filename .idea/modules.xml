@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/CounterIncrementor_v1/CounterIncrementor_v1.iml" filepath="$PROJECT_DIR$/CounterIncrementor_v1/CounterIncrementor_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CounterIncrementor_v2/CounterIncrementor_v2.iml" filepath="$PROJECT_DIR$/CounterIncrementor_v2/CounterIncrementor_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DelteVariable_Adding/DelteVariable_Adding.iml" filepath="$PROJECT_DIR$/DelteVariable_Adding/DelteVariable_Adding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Door_v1/Door_v1.iml" filepath="$PROJECT_DIR$/Door_v1/Door_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/Phone_v1/Phone_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" filepath="$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" />
     </modules>
   </component>
