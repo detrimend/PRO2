@@ -2,11 +2,15 @@ public class Burgerbar
 {
   private int numberOfBurgers;
   private int maxNumberOfBurgers;
+  private int nextNumberToTake; //fair
+  private int nextNumberToServe; //fair
 
   public Burgerbar(int maxNumberOfBurgers)
   {
     this.numberOfBurgers = 0;
     this.maxNumberOfBurgers = maxNumberOfBurgers;
+    this.nextNumberToTake = 1; //fair
+    this.nextNumberToServe = 1; //fair
   }
 
   public synchronized void makeBurger()
@@ -33,6 +37,8 @@ public class Burgerbar
 
   public synchronized void eatBurger()
   {
+    int myNumber = nextNumberToTake; //fair
+    nextNumberToTake++; //fair
     while (numberOfBurgers <= 0)
     {
       System.out.println("Waiting " + Thread.currentThread().getName()
