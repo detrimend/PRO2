@@ -10,11 +10,11 @@
       minWidth="-Infinity" prefHeight="351.0" prefWidth="600.0"
       xmlns="http://javafx.com/javafx/10.0.1"
       xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.LogViewController"
-      userData="Converter Log">
+      userData="Converter model.Log">
     <children>
         <HBox alignment="TOP_CENTER">
             <children>
-                <Label prefHeight="67.0" prefWidth="322.0" text="Converter Log">
+                <Label prefHeight="67.0" prefWidth="322.0" text="Converter model.Log">
                     <font>
                         <Font name="Comic Sans MS" size="48.0"/>
                     </font>
