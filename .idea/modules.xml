@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/Phone_v1/Phone_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phone_v2/Phone_v2.iml" filepath="$PROJECT_DIR$/Phone_v2/Phone_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketIntro/SocketIntro.iml" filepath="$PROJECT_DIR$/SocketIntro/SocketIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketLogin/SocketLogin.iml" filepath="$PROJECT_DIR$/SocketLogin/SocketLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketTaskList/SocketTaskList.iml" filepath="$PROJECT_DIR$/SocketTaskList/SocketTaskList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" filepath="$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConversion_v2/TemperatureConversion_v2.iml" filepath="$PROJECT_DIR$/TemperatureConversion_v2/TemperatureConversion_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uppercase_v1/Uppercase_v1.iml" filepath="$PROJECT_DIR$/Uppercase_v1/Uppercase_v1.iml" />
