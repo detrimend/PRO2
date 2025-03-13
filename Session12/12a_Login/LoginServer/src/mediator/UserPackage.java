@@ -5,7 +5,7 @@ public class UserPackage
   private String user;
   private String password;
 
-  public UsUserPackage(String user, String password)
+  public UserPackage(String user, String password)
   {
     this.user = user;
     this.password = password;
