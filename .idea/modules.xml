@@ -15,7 +15,11 @@
       <module fileurl="file://$PROJECT_DIR$/Glossary_v1/Glossary_v1.iml" filepath="$PROJECT_DIR$/Glossary_v1/Glossary_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session12/12a_Login/LoginClient/LoginClient.iml" filepath="$PROJECT_DIR$/Session12/12a_Login/LoginClient/LoginClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session12/12a_Login/LoginServer/LoginServer.iml" filepath="$PROJECT_DIR$/Session12/12a_Login/LoginServer/LoginServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Client/MVVM-Exercises-Client.iml" filepath="$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Client/MVVM-Exercises-Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" filepath="$PROJECT_DIR$/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Server/MVVM-Exercises-Server.iml" filepath="$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Server/MVVM-Exercises-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" filepath="$PROJECT_DIR$/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Sockets.iml" filepath="$PROJECT_DIR$/MVVM-Exercises-Sockets/MVVM-Exercises-Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/Phone_v1/Phone_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phone_v2/Phone_v2.iml" filepath="$PROJECT_DIR$/Phone_v2/Phone_v2.iml" />
