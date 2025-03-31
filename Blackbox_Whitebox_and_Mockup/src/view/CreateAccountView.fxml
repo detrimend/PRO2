@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<VBox prefHeight="400.0" prefWidth="350.0"
+      xmlns="http://javafx.com/javafx/11.0.1"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="view.CreateAccountViewController"
+      userData="Create user account">
+    <children>
+        <HBox prefHeight="40.0" prefWidth="580.0" spacing="10.0">
+            <children>
+                <TextField fx:id="userField" onAction="#onEnter">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </TextField>
+                <Label prefHeight="40.0" prefWidth="133.0" text="User name">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+            </children>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </HBox>
+        <HBox layoutX="20.0" layoutY="20.0" prefHeight="40.0" prefWidth="580.0"
+              spacing="10.0">
+            <children>
+                <TextField fx:id="passwordField" onAction="#onEnter">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </TextField>
+                <Label prefHeight="40.0" prefWidth="133.0" text="Password">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+            </children>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </HBox>
+        <HBox layoutX="10.0" layoutY="72.0" prefHeight="40.0" prefWidth="580.0"
+              spacing="10.0">
+            <children>
+                <TextField fx:id="emailField" onAction="#onEnter">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </TextField>
+                <Label prefHeight="40.0" prefWidth="133.0" text="Email">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                    <HBox.margin>
+                        <Insets/>
+                    </HBox.margin>
+                </Label>
+            </children>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </HBox>
+        <Label fx:id="errorLabel" prefHeight="100.0" prefWidth="347.0"
+               text="" textFill="RED" wrapText="true">
+            <font>
+                <Font size="18.0"/>
+            </font>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </Label>
+        <HBox prefHeight="48.0" prefWidth="580.0" spacing="10.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#createButtonPressed"
+                        text="Create">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Button>
+                <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false"
+                        onAction="#cancelButtonPressed" text="Cancel">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Button>
+            </children>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </HBox>
+    </children>
+</VBox>
