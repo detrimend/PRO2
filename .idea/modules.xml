@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Session12/12a_Login/12a_Login.iml" filepath="$PROJECT_DIR$/Session12/12a_Login/12a_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Threads1/1_Threads1.iml" filepath="$PROJECT_DIR$/1_Threads1/1_Threads1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20b_BlockingQueue/20b_BlockingQueue.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20b_BlockingQueue/20b_BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20c_Carrots/20c_Carrots.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20c_Carrots/20c_Carrots.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeskedKl8/BeskedKl8.iml" filepath="$PROJECT_DIR$/BeskedKl8/BeskedKl8.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillysCar/BillysCar.iml" filepath="$PROJECT_DIR$/BillysCar/BillysCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blackbox_Whitebox_and_Mockup/Blackbox_Whitebox_and_Mockup.iml" filepath="$PROJECT_DIR$/Blackbox_Whitebox_and_Mockup/Blackbox_Whitebox_and_Mockup.iml" />
