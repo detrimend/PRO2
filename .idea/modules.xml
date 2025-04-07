@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/10-MVVM3/10-MVVM3.iml" filepath="$PROJECT_DIR$/10-MVVM3/10-MVVM3.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/10_2_SingletonMultitonFactory.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/10_2_SingletonMultitonFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_MVVM3/10_MVVM3.iml" filepath="$PROJECT_DIR$/10_MVVM3/10_MVVM3.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/11_Socket1.iml" filepath="$PROJECT_DIR$/11_Socket1/11_Socket1.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" />
@@ -13,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20b_BlockingQueue/20b_BlockingQueue.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20b_BlockingQueue/20b_BlockingQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20c_Carrots/20c_Carrots.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20c_Carrots/20c_Carrots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_ReadersWriters/21_ReadersWriters.iml" filepath="$PROJECT_DIR$/21_ReadersWriters/21_ReadersWriters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_ReadersWriters/21a_HeavyWeightList_v1/21a_HeavyWeightList_v1.iml" filepath="$PROJECT_DIR$/21_ReadersWriters/21a_HeavyWeightList_v1/21a_HeavyWeightList_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_ReadersWriters/21b_PublicRestroom/21b_PublicRestroom.iml" filepath="$PROJECT_DIR$/21_ReadersWriters/21b_PublicRestroom/21b_PublicRestroom.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Threads2/2_Threads2.iml" filepath="$PROJECT_DIR$/2_Threads2/2_Threads2.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_State/5_State.iml" filepath="$PROJECT_DIR$/5_State/5_State.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_Observer1/6_Observer1.iml" filepath="$PROJECT_DIR$/6_Observer1/6_Observer1.iml" />
@@ -31,9 +34,9 @@
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12a_Login/LoginClient/LoginClient.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12a_Login/LoginClient/LoginClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12a_Login/LoginServer/LoginServer.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12a_Login/LoginServer/LoginServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Client/MVVM-Exercises-Client.iml" filepath="$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Client/MVVM-Exercises-Client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10-MVVM3/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" filepath="$PROJECT_DIR$/10-MVVM3/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_MVVM3/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" filepath="$PROJECT_DIR$/10_MVVM3/MVVM-Exercises-InParts/MVVM-Exercises-InParts.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Server/MVVM-Exercises-Server.iml" filepath="$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Server/MVVM-Exercises-Server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10-MVVM3/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" filepath="$PROJECT_DIR$/10-MVVM3/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_MVVM3/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" filepath="$PROJECT_DIR$/10_MVVM3/MVVM-Exercises-SingleUserSolution/MVVM-Exercises-SingleUserSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Sockets.iml" filepath="$PROJECT_DIR$/15_MVVM_Exercises/MVVM-Exercises-Sockets/MVVM-Exercises-Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" />
