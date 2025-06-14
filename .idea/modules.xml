@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/11_Socket1.iml" filepath="$PROJECT_DIR$/11_Socket1/11_Socket1.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13_Sockets3_EKSAMEN.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13_Sockets3_EKSAMEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/13a_TaskList_Sockets.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/13a_TaskList_Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_MVVM_Exercises/15_MVVM_Exercises.iml" filepath="$PROJECT_DIR$/15_MVVM_Exercises/15_MVVM_Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Threads1/1_Threads1.iml" filepath="$PROJECT_DIR$/1_Threads1/1_Threads1.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" />
@@ -24,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/5_State/BillysCar/BillysCar.iml" filepath="$PROJECT_DIR$/5_State/BillysCar/BillysCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blackbox_Whitebox_and_Mockup/Blackbox_Whitebox_and_Mockup.iml" filepath="$PROJECT_DIR$/Blackbox_Whitebox_and_Mockup/Blackbox_Whitebox_and_Mockup.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Threads2/Burgerbar/Burgerbar.iml" filepath="$PROJECT_DIR$/2_Threads2/Burgerbar/Burgerbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Client/Client.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Client/Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Threads1/ComputerSimulator/ComputerSimulator.iml" filepath="$PROJECT_DIR$/1_Threads1/ComputerSimulator/ComputerSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Threads1/CounterIncrementor_v1/CounterIncrementor_v1.iml" filepath="$PROJECT_DIR$/1_Threads1/CounterIncrementor_v1/CounterIncrementor_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Threads2/CounterIncrementor_v2/CounterIncrementor_v2.iml" filepath="$PROJECT_DIR$/2_Threads2/CounterIncrementor_v2/CounterIncrementor_v2.iml" />
@@ -41,6 +44,7 @@
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_State/Phone_v2/Phone_v2.iml" filepath="$PROJECT_DIR$/5_State/Phone_v2/Phone_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Server/Server.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Server/Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/Singleton_Log/Singleton_Log.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/Singleton_Log/Singleton_Log.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/SocketIntro/SocketIntro.iml" filepath="$PROJECT_DIR$/11_Socket1/SocketIntro/SocketIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/SocketLogin/SocketLogin.iml" filepath="$PROJECT_DIR$/11_Socket1/SocketLogin/SocketLogin.iml" />
