@@ -63,7 +63,7 @@ public class ListAccess implements ReadWriteAccess
 
   @Override public synchronized ReadWriteList acquireWrite()
   {
-    System.out.println(Thread.currentThread() + " requesting write access!!!!!!!!!!!!!");
+    System.out.println(Thread.currentThread() + " requesting write access");
     queue.offer(Thread.currentThread());
     while (queue.peek() != Thread.currentThread())
     {
@@ -88,7 +88,7 @@ public class ListAccess implements ReadWriteAccess
         //
       }
     }
-    System.out.println(Thread.currentThread() + " granted write access!!!!!!!!!!!!!");
+    System.out.println(Thread.currentThread() + " granted write access");
     writers++;
     queue.remove();
     notifyAll();

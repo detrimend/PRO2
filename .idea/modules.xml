@@ -4,12 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/10_2_SingletonMultitonFactory.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/10_2_SingletonMultitonFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_MVVM3/10_MVVM3.iml" filepath="$PROJECT_DIR$/10_MVVM3/10_MVVM3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/10c_Factory_Drinks/10c_Factory_Drinks.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/10c_Factory_Drinks/10c_Factory_Drinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/10e_Factory_StarSign/10e_Factory_StarSign.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/10e_Factory_StarSign/10e_Factory_StarSign.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/11_Socket1.iml" filepath="$PROJECT_DIR$/11_Socket1/11_Socket1.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12_Sockets2_Json.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" filepath="$PROJECT_DIR$/12_Sockets2_Json/12a_Login/12a_Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13_Sockets3_EKSAMEN.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13_Sockets3_EKSAMEN.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/13a_TaskList_Sockets.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/13a_TaskList_Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_MVVM_Exercises/15_MVVM_Exercises.iml" filepath="$PROJECT_DIR$/15_MVVM_Exercises/15_MVVM_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_ProxyAdapter/19_ProxyAdapter.iml" filepath="$PROJECT_DIR$/19_ProxyAdapter/19_ProxyAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_ProxyAdapter/19d_Proxy_SeaBear/19d_Proxy_SeaBear.iml" filepath="$PROJECT_DIR$/19_ProxyAdapter/19d_Proxy_SeaBear/19d_Proxy_SeaBear.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Threads1/1_Threads1.iml" filepath="$PROJECT_DIR$/1_Threads1/1_Threads1.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20_ProducerConsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" filepath="$PROJECT_DIR$/20_ProducerConsumer/20a_CookieJar/20a_CookieJar.iml" />
@@ -47,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" filepath="$PROJECT_DIR$/5_State/Phone_v1/Phone_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_State/Phone_v2/Phone_v2.iml" filepath="$PROJECT_DIR$/5_State/Phone_v2/Phone_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Server/Server.iml" filepath="$PROJECT_DIR$/13_Sockets3_EKSAMEN/13a_TaskList_Sockets/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_2_SingletonMultitonFactory/Singleton_Log/Singleton_Log.iml" filepath="$PROJECT_DIR$/10_2_SingletonMultitonFactory/Singleton_Log/Singleton_Log.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/SocketIntro/SocketIntro.iml" filepath="$PROJECT_DIR$/11_Socket1/SocketIntro/SocketIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/SocketLogin/SocketLogin.iml" filepath="$PROJECT_DIR$/11_Socket1/SocketLogin/SocketLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Socket1/SocketTaskList/SocketTaskList.iml" filepath="$PROJECT_DIR$/11_Socket1/SocketTaskList/SocketTaskList.iml" />

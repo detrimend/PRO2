@@ -25,9 +25,6 @@ public class TaskListClient
       out = new PrintWriter(socket.getOutputStream(), true);
       input = new Scanner(System.in);
       gson = new Gson();
-      TaskListClientReceiver receiver = new TaskListClientReceiver(this, in);
-      Thread receiverThread = new Thread(receiver);
-      receiverThread.start();
     }
     catch (Exception e)
     {
@@ -53,6 +50,9 @@ public class TaskListClient
   {
     Scanner input = new Scanner(System.in);
     boolean running = true;
+    TaskListClientReceiver receiver = new TaskListClientReceiver(this, in);
+    Thread receiverThread = new Thread(receiver);
+    receiverThread.start();
     while (running)
     {
       System.out.println("\n1) Add a task");
@@ -71,7 +71,6 @@ public class TaskListClient
           out.println("ADD");
           System.out.print("Enter the task: ");
           String taskName = input.nextLine();
-          //System.out.println();
           System.out.print("Enter the estimated time: ");
           long estimatedTime = input.nextLong();
           input.nextLine();
