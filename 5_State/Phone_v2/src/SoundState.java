@@ -1,12 +1,21 @@
-public class SoundState implements AlertState
+public class SoundState extends AlertState
 {
-  public void click(Phone phone)
+  @Override public void click(Phone phone)
   {
     phone.setState(new VibrationState());
   }
 
-  public String alert()
+  @Override public String alert()
   {
     return "DRIIIING";
+  }
+
+  @Override public void volumeDown(Phone phone)
+  {
+    if (phone.getVolume() == 1)
+    {
+      phone.setState(new SilentState(phone));
+    }
+    phone.decrementVolume();
   }
 }

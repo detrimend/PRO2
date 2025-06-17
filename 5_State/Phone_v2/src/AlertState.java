@@ -1,7 +1,14 @@
-public interface AlertState
+public abstract class AlertState
 {
-  public void click(Phone phone);
-  public String alert();
-  public void volumeUp(Phone phone);
-  public void volumeDown(Phone phone);
+  public abstract void click(Phone phone);
+  public abstract String alert();
+
+  public void volumeUp(Phone phone)
+  {
+    phone.incrementVolume();
+  }
+  public void volumeDown(Phone phone)
+  {
+    phone.decrementVolume();
+  }
 }

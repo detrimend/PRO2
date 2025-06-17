@@ -1,11 +1,11 @@
-public class VibrationState implements AlertState
+public class VibrationState extends AlertState
 {
-  public void click(Phone phone)
+  @Override public void click(Phone phone)
   {
-    phone.setState(new SilentState());
+    phone.setState(new SilentState(phone));
   }
 
-  public String alert()
+  @Override public String alert()
   {
     return "BRZZ BRZZ";
   }

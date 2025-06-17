@@ -1,21 +1,24 @@
-public class SilentState implements AlertState
+public class SilentState extends AlertState
 {
   public SilentState(Phone phone)
   {
     phone.setMinimumVolume();
   }
-  public void click(Phone phone)
+
+  @Override public void click(Phone phone)
   {
     phone.setState(new SoundState());
+    phone.setMediumVolume();
   }
 
-  public String alert()
+  @Override public String alert()
   {
     return "[silent]";
   }
 
-  public void volumeUp(Phone phone)
+  @Override public void volumeUp(Phone phone)
   {
-
+    phone.setState(new SoundState());
+    phone.incrementVolume();
   }
 }

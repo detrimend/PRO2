@@ -7,7 +7,7 @@ public class Phone
 
   public Phone()
   {
-    state = new SilentState();
+    state = new SilentState(this);
   }
 
   public void clickSoundButton()
@@ -15,9 +15,19 @@ public class Phone
     state.click(this);
   }
 
-  public void setState(AlertState state)
+  public void volumeUp()
   {
-    this.state = state;
+    state.volumeUp(this);
+  }
+
+  public void volumeDown()
+  {
+    state.volumeDown(this);
+  }
+
+  public int getVolume()
+  {
+    return volume;
   }
 
   public void receive(String message)
@@ -26,8 +36,39 @@ public class Phone
     System.out.println(message);
   }
 
+  public void setState(AlertState state)
+  {
+    this.state = state;
+  }
+
+  public void incrementVolume()
+  {
+    if (volume < MAX_VOLUME)
+    {
+      volume++;
+    }
+  }
+
+  public void decrementVolume()
+  {
+    if (volume > MIN_VOLUME)
+    {
+      volume--;
+    }
+  }
+
+  public void setMinimumVolume()
+  {
+    volume = MIN_VOLUME;
+  }
+
+  public void setMediumVolume()
+  {
+    volume = (MAX_VOLUME - MIN_VOLUME) / 2;
+  }
+
   public String status()
   {
-    return state.getClass().getSimpleName();
+    return state.getClass().getSimpleName() + " with volume " + volume;
   }
 }
