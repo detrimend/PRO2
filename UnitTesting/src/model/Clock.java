@@ -176,7 +176,7 @@ public class Clock
    *
    * @return a string representation of the clock in the format HH:MM:SS
    */
-  public String toString() // edited
+  public String toString() // Fixed
   {
     String s = "";
     if (hour < 10)
